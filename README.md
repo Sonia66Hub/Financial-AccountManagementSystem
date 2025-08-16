@@ -133,7 +133,8 @@ Deploy easily to **Azure, Vercel, or Docker**.
 )
 
 💳 **Transactions**  
-![Transactions]()
+![Transactions](<img width="1366" height="768" alt="Screenshot 2025-08-16 160713" src="https://github.com/user-attachments/assets/7f4af939-7104-43ad-accb-a37a43625612" />
+)
 
 ---
 
