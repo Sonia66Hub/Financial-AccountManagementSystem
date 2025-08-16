@@ -124,8 +124,7 @@ Deploy easily to **Azure, Vercel, or Docker**.
 ## 📸 Screenshots
 
 🔐 **Login Page**  
-![Login](<img width="783" height="605" alt="Screenshot 2025-08-16 160444" src="https://github.com/user-attachments/assets/f3002e6c-ab97-453a-bf93-767cf7c61213" />
-)
+![Login](<img width="783" height="605" alt="Screenshot 2025-08-16 160444" src="https://github.com/user-attachments/assets/f3002e6c-ab97-453a-bf93-767cf7c61213"  />)
 
 📊 **Dashboard**  
 ![Dashboard](<img width="1294" height="602" alt="Screenshot 2025-08-16 160601" src="https://github.com/user-attachments/assets/489faffe-ef40-43e8-a067-8cab5be61b86" />
