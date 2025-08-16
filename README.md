@@ -129,10 +129,11 @@ Deploy easily to **Azure, Vercel, or Docker**.
 )
 
 📊 **Dashboard**  
-![Dashboard](https://github.com/user-attachments/assets/489faffe-ef40-43e8-a067-8cab5be61b86)
+![Dashboard](<img width="1366" height="768" alt="Screenshot 2025-08-16 160713" src="https://github.com/user-attachments/assets/cb0b97f5-ea56-4ac1-9802-c960830d8a03" />
+)
 
 💳 **Transactions**  
-![Transactions](https://github.com/user-attachments/assets/ec0b8420-bd89-44cf-8e3a-d78edcd420)
+![Transactions]()
 
 ---
 
