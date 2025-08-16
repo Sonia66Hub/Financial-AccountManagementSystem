@@ -153,6 +153,16 @@ Deploy easily to **Azure, Vercel, or Docker**.
 💳 **Transactions**  
 ![Transactions](https://github.com/user-attachments/assets/ec0b8420-bd89-44cf-8e3a-d78edcd42040)
 
+## 📸 Screenshots  
+
+🔐 **Login Page**  
+![Login](https://github.com/user-attachments/assets/12e55647-3252-4070-9a2b-bb49b42dc471)
+
+📊 **Dashboard**  
+![Dashboard](https://github.com/user-attachments/assets/489faffe-ef40-43e8-a067-8cab5be61b86)
+
+💳 **Transactions**  
+![Transactions](https://github.com/user-attachments/assets/ec0b8420-bd89-44cf-8e3a-d78edcd42040)
 
 ---
 
