@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\29e18b1d-0762-44c2-88fc-8cb8182417bc_images.jpg",
+      "PackagePath": "staticwebassets\\images\\29e18b1d-0762-44c2-88fc-8cb8182417bc_images.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\5917902e-6730-4f00-bda8-3b23347e0f97_images.jpg",
+      "PackagePath": "staticwebassets\\images\\5917902e-6730-4f00-bda8-3b23347e0f97_images.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\653d027f-e3bb-4c8a-9eb3-5019c0b91c15_images.jpg",
+      "PackagePath": "staticwebassets\\images\\653d027f-e3bb-4c8a-9eb3-5019c0b91c15_images.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\67bca7da-a8ae-4a10-b0d9-8c2841ccc70d_bb.jpg",
+      "PackagePath": "staticwebassets\\images\\67bca7da-a8ae-4a10-b0d9-8c2841ccc70d_bb.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\8b2e2b97-50b0-494c-9536-13cf1b3e8bdd_images.jpg",
+      "PackagePath": "staticwebassets\\images\\8b2e2b97-50b0-494c-9536-13cf1b3e8bdd_images.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\964b220b-66c8-4963-b2fc-a7b71adfab4e_fantasy-bird-illustration.jpg",
+      "PackagePath": "staticwebassets\\images\\964b220b-66c8-4963-b2fc-a7b71adfab4e_fantasy-bird-illustration.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\b16744a7-1302-4d08-bd1b-34259a695533_images.jpg",
+      "PackagePath": "staticwebassets\\images\\b16744a7-1302-4d08-bd1b-34259a695533_images.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\b7ef1408-a4b0-4fda-a4d7-d805f6683ef4_images.jpg",
+      "PackagePath": "staticwebassets\\images\\b7ef1408-a4b0-4fda-a4d7-d805f6683ef4_images.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\c4a5187c-ce6d-46b9-9dc0-1a8c5fd67c10_aa.jpg",
+      "PackagePath": "staticwebassets\\images\\c4a5187c-ce6d-46b9-9dc0-1a8c5fd67c10_aa.jpg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\images\\febb8c4f-cd1e-4efd-9d19-7ab2d4dcca0d_noimage.jpeg",
+      "PackagePath": "staticwebassets\\images\\febb8c4f-cd1e-4efd-9d19-7ab2d4dcca0d_noimage.jpeg"
+    },
+    {
+      "Id": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\wwwroot\\invoices\\a47255f6-9485-416e-bb6c-f883837dafdf_images.jpg",
+      "PackagePath": "staticwebassets\\invoices\\a47255f6-9485-416e-bb6c-f883837dafdf_images.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinancialManagementSystems.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinancialManagementSystems.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinancialManagementSystems.props",
+      "PackagePath": "build\\FinancialManagementSystems.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinancialManagementSystems.props",
+      "PackagePath": "buildMultiTargeting\\FinancialManagementSystems.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinancialManagementSystems.props",
+      "PackagePath": "buildTransitive\\FinancialManagementSystems.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

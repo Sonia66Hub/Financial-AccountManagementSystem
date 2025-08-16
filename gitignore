@@ -1,0 +1,46 @@
+# ---- Visual Studio ----
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ---- Build results ----
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# ---- Rider / JetBrains ----
+.idea/
+
+# ---- Node / React ----
+node_modules/
+dist/
+build/
+
+# ---- Environment files ----
+.env
+*.env
+
+# ---- Coverage ----
+coverage/
+
+# ---- System files ----
+.DS_Store
+Thumbs.db
+
+# ---- Publish outputs ----
+*.publishsettings
+*.pubxml
+*.pubxml.user
