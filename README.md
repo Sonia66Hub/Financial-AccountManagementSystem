@@ -1,4 +1,4 @@
-# 💰 Financial Management System (FMS)
+# 💰 Financial Account Management System (FMS)
 
 <p align="center">
   <b>A modern, role-based web platform to manage finance, powered by <br/>ASP.NET Core + React (Vite)</b>
@@ -124,13 +124,16 @@ Deploy easily to **Azure, Vercel, or Docker**.
 ## 📸 Screenshots
 
 🔐 **Login Page**  
-![Login](C:\Users\SHAJIB\Downloads\Screenshot 2025-08-16 041903.png)
+![Login](<img width="783" height="605" alt="Screenshot 2025-08-16 160444" src="https://github.com/user-attachments/assets/6aa84a18-26c7-4f23-a968-172e7fd2668b" />
+)
 
 📊 **Dashboard**  
-![Dashboard](https://github.com/<your-username>/<repo-name>/blob/main/screenshots/dashboard.png)
+![Dashboard](<img width="1294" height="602" alt="Screenshot 2025-08-16 160601" src="https://github.com/user-attachments/assets/489faffe-ef40-43e8-a067-8cab5be61b86" />
+)
 
 💳 **Transactions**  
-![Transactions](https://github.com/<your-username>/<repo-name>/blob/main/screenshots/transactions.png)
+![Transactions](<img width="1366" height="768" alt="Screenshot 2025-08-16 160713" src="https://github.com/user-attachments/assets/ec08b420-bd89-44cf-8e3a-d70edc4d2040" />
+)
 
 ---
 
